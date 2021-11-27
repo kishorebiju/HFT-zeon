@@ -1,7 +1,7 @@
 
 # Kishore B
 
-By Adam a simple portfolio to introduce my skills to all developers
+By kISORE  a simple portfolio to introduce my skills to all developers
 
 
 ## Description
