@@ -1,5 +1,5 @@
 
-# Adamsy
+# Kishore B
 
 By Adam a simple portfolio to introduce my skills to all developers
 
